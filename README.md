@@ -39,7 +39,7 @@
 
 ```bash
 git clone https://github.com/MuhammedAfsalCP/Advance-E-commerce.git
-cd Advance-Ecommerce/Pet-Food-Ecommerce-Backend
+cd Advance-Ecommerce/Pet-Food-Ecommerce-Backend/petfood
 ```
 
 ### 2. Create & Activate Virtual Environment
